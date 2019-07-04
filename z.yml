@@ -1,0 +1,16 @@
+---
+description: Module for XinaBox SH01 capacitive touch sensor
+fullname: lib.xinabox.sh01
+info:
+    chip_manufacturer: XinaBox
+    chip_name: SH01
+    name: Capacitive Touch Sensor
+    type: Sensor
+keywords:
+- capacitive
+- touch
+- I2C
+- xinabox
+- CAP1296
+title: XinaBox SH01
+...
